@@ -1,2 +1,1 @@
-# Hello-World
-The first program in github.
+第一个github项目，简单的Hello World
